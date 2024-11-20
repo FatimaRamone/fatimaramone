@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" align="center" style="width: 50%" /> </div> 
+<div align="center"> <img src="https://github.com/FatimaRamone/fatimaramone/raw/main/images/avatar.png" align="center" style="width: 50%" /> </div> 
 <div align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 8l4 4-4 4"/><path d="M8 12h8"/></svg>
 </div>
