@@ -6,7 +6,6 @@
 # 👋 Hello, I'm Fatima! 
 **A passionate and motivated Backend Developer** 🚀
 
-Currently working as a Backend Developer (Internship) at 3.14 Financial Contents 💼.
 
 With a strong background in web application development, machine learning 🤖, and cybersecurity 🛡️, I specialize in object-oriented programming and relational databases 💻.
 
