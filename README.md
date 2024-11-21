@@ -54,6 +54,10 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
     <img src="https://img.icons8.com/nolan/64/kotlin.png" alt="Kotlin" />
   </a>
 
+  <a href="https://java.com/" target="_blank" title="Java">
+    <img src= "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-java-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"  alt="Java" />
+  </a>
+
   <!-- HTML5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
     <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons" alt="HTML5" />
