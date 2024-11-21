@@ -51,17 +51,20 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 
   <!-- Kotlin -->
   <a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
-    <img src="https://img.icons8.com/ios/50/000000/kotlin.png" alt="Kotlin" />
+    <img src="https://img.icons8.com/nolan/64/kotlin.png" alt="Kotlin" />
   </a>
 
   <!-- HTML5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="https://img.icons8.com/ios/50/000000/html-5.png" alt="HTML5" />
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons" alt="HTML5" />
+    
   </a>
 
   <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS">
-    <img src="https://img.icons8.com/ios/50/000000/css3.png" alt="CSS" />
+    <img src="[https://img.icons8.com/ios/50/000000/css3.png](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-css-computer-programming-icons-flaticons-lineal-color-flat-icons.png" alt="external-css-computer-programming-icons-flaticons-lineal-color-flat-icons)" alt="CSS" />
+
+    
   </a>
 
   <!-- SQL -->
