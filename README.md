@@ -108,7 +108,7 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 
   <!-- Selenium -->
   <a href="https://www.selenium.dev/" target="_blank" title="Selenium">
-    <img src= https://img.icons8.com/external-bearicons-outline-color-bearicons/64/external-Selenium-periodic-table-bearicons-outline-color-bearicons.png" alt="Selenium" />
+    <img src= "https://img.icons8.com/dusk/64/selenium-test-automation.png" alt="Selenium" />
  
     
   </a>
