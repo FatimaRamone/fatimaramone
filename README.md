@@ -46,7 +46,7 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript" />
+    <img src="https://img.icons8.com/dusk/64/javascript.png" alt="JavaScript" />
   </a>
 
   <!-- Kotlin -->
