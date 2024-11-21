@@ -12,12 +12,21 @@ With a strong background in web application development, machine learning 🤖, 
 ---
 
 ## ✨ About Me 🌟
-Fatima has a diverse background with experience in assistant stage management 🎭, web application development 🖥️, and cybersecurity 🔐. She is highly motivated, passionate about problem-solving 🔍, and has strong organizational and communication skills 🗣️.
+I'm a passionate web developer specializing in AI solutions 🧠💻, always excited to build innovative applications using cutting-edge technologies. My expertise includes:
 
-Fatima has also worked in retail, managing staff and handling inventory 📦. With her education in web application development and cybersecurity, as well as her experience in projects involving Flask and TensorFlow for image classification, she has a solid foundation in technology and programming.
+💬 LLMs (Large Language Models): Exploring the potential of Langchain and LLMs to transform how we interact with technology.
 
-Additionally, her experience with PowerShell scripting 🖥️ and Git repositories 🔄 shows her proficiency in automation and version control 🛠️.
+🤖 Machine Learning: Building and training models with TensorFlow for tasks like image classification.
 
+🔍 OCR (Optical Character Recognition): Creating Android apps with ML Kit to extract meaningful data from images.
+
+🕷️ Web Scraping: Using Selenium and BeautifulSoup to extract data and automate tasks from websites.
+
+🌐 Web Development: Building with Flask, FastAPI, Django, HTML5, CSS, and JavaScript.
+
+🎭 With a background in assistant stage management and project coordination 📋, I bring excellent communication and organizational skills to my work.
+
+🧩 I'm a problem-solver and highly motivated to create AI-driven solutions 🚀. I also spent 8 years in the UK 🇬🇧 before returning to Spain 🇪🇸.
 ---
 
 ## 💻 My Skill Set 🥏
