@@ -112,14 +112,14 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 
   <!-- Selenium -->
   <a href="https://www.selenium.dev/" target="_blank" title="Selenium">
-    <img src= "https://img.icons8.com/dusk/64/selenium-test-automation.png" alt="Selenium" />
+    <img   width="65" height="65" src= "https://img.icons8.com/dusk/64/selenium-test-automation.png" alt="Selenium" />
  
     
   </a>
 
   <!-- SQLAlchemy -->
   <a href="https://www.sqlalchemy.org/" target="_blank" title="SQLAlchemy">
-    <img src= "https://img.icons8.com/external-others-pike-picture/50/external-alchemy-astrological-others-pike-picture.png" alt="SQLAlchemy" />
+    <img   width="65" height="65" src= "https://img.icons8.com/external-others-pike-picture/50/external-alchemy-astrological-others-pike-picture.png" alt="SQLAlchemy" />
   </a>
 
 
