@@ -140,7 +140,9 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 
   <!-- Hugging Face -->
   <a href="https://huggingface.co/" target="_blank" title="Hugging Face">
-    <img src= "https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-hugging-expression-emoji-shared-on-instant-messenger-smiley-filled-tal-revivo.png" alt="Hugging Face" />
+    <img src= "https://img.icons8.com/fluency/48/hugging-face_app.png" alt="Hugging Face" />
+
+   
 
  
     
