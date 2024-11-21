@@ -162,4 +162,4 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 If you want to collaborate, have any questions, or just want to chat, don't hesitate to reach out!
 
 - 📧 Email: fatimapitaemail@gmail.com
-- 🌐 Website: [fatimaramone.com](http://www.fatimapita.com)
+- 🌐 Website: [fatimapita.com](http://www.fatimapita.com)
