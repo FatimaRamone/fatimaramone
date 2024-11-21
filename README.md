@@ -119,7 +119,7 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 
   <!-- SQLAlchemy -->
   <a href="https://www.sqlalchemy.org/" target="_blank" title="SQLAlchemy">
-    <img   width="65" height="65" src= "https://img.icons8.com/external-others-pike-picture/50/external-alchemy-astrological-others-pike-picture.png" alt="SQLAlchemy" />
+    <img   width="85" height="85" src= "https://img.icons8.com/external-others-pike-picture/50/external-alchemy-astrological-others-pike-picture.png" alt="SQLAlchemy" />
   </a>
 
 
