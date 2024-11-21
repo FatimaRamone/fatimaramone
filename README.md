@@ -69,68 +69,63 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 
   <!-- SQL -->
   <a href="https://www.sql.org/" target="_blank" title="SQL">
-    <img src="https://img.icons8.com/ios/50/000000/database.png" alt="SQL" />
+    <img src= "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="SQL" />
+ 
   </a>
 
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank" title="PHP">
-    <img src="https://img.icons8.com/ios/50/000000/php.png" alt="PHP" />
+    <img src= "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-php-code-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="PHP" />
+
+    
   </a>
 
   <!-- Flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" title="Flask">
-    <img src="https://img.icons8.com/ios/50/000000/flask.png" alt="Flask" />
+    <img src= "https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-flask-hospital-justicon-lineal-color-justicon.png" alt="Flask" />
+
+    
   </a>
 
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-    <img src="https://img.icons8.com/ios/50/000000/django.png" alt="Django" />
+    <img src= "https://img.icons8.com/ios/50/django.png" alt="django" alt="Django" />
   </a>
 
   <!-- FastAPI -->
   <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
-    <img src="https://img.icons8.com/ios/50/000000/fastapi.png" alt="FastAPI" />
+    <img src="https://img.icons8.com/clouds/100/api.png"  alt="FastAPI" />
   </a>
 
   <!-- Langchain -->
   <a href="https://www.langchain.com/" target="_blank" title="Langchain">
-    <img src="https://img.icons8.com/ios/50/000000/language.png" alt="Langchain" />
+    <img src= "https://img.icons8.com/external-creatype-filed-outline-colourcreatype/64/external-file-image-file-extension-creatype-filed-outline-colourcreatype-58.png" alt="Langchain" />
+ 
+    
   </a>
 
   <!-- Selenium -->
   <a href="https://www.selenium.dev/" target="_blank" title="Selenium">
-    <img src="https://img.icons8.com/ios/50/000000/selenium.png" alt="Selenium" />
+    <img src= https://img.icons8.com/external-bearicons-outline-color-bearicons/64/external-Selenium-periodic-table-bearicons-outline-color-bearicons.png" alt="Selenium" />
+ 
+    
   </a>
 
   <!-- SQLAlchemy -->
   <a href="https://www.sqlalchemy.org/" target="_blank" title="SQLAlchemy">
-    <img src="https://img.icons8.com/ios/50/000000/sqlalchemy.png" alt="SQLAlchemy" />
+    <img src= "https://img.icons8.com/external-others-pike-picture/50/external-alchemy-astrological-others-pike-picture.png" alt="SQLAlchemy" />
   </a>
 
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" title="React">
-    <img src="https://img.icons8.com/ios/50/000000/react.png" alt="React" />
-  </a>
 
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" title="Node.js">
-    <img src="https://img.icons8.com/ios/50/000000/nodejs.png" alt="Node.js" />
-  </a>
 
   <!-- Android SDK -->
   <a href="https://developer.android.com/studio" target="_blank" title="Android SDK">
-    <img src="https://img.icons8.com/ios/50/000000/android.png" alt="Android SDK" />
+    <img src= "https://img.icons8.com/bubbles/100/android-os.png" alt="android-os" alt="Android SDK" />
   </a>
 
-  <!-- ML Kit -->
-  <a href="https://developers.google.com/ml-kit" target="_blank" title="ML Kit">
-    <img src="https://img.icons8.com/ios/50/000000/machine-learning.png" alt="ML Kit" />
-  </a>
+ 
 
-  <!-- Room Database -->
-  <a href="https://developer.android.com/training/data-storage/room" target="_blank" title="Room Database">
-    <img src="https://img.icons8.com/ios/50/000000/database.png" alt="Room Database" />
-  </a>
+
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" title="Git">
