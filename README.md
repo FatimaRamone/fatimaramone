@@ -62,7 +62,7 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 
   <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS">
-    <img src="[https://img.icons8.com/ios/50/000000/css3.png](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-css-computer-programming-icons-flaticons-lineal-color-flat-icons.png" alt="external-css-computer-programming-icons-flaticons-lineal-color-flat-icons)" alt="CSS" />
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-css-computer-programming-icons-flaticons-lineal-color-flat-icons.png" alt="external-css-computer-programming-icons-flaticons-lineal-color-flat-icons)" alt="CSS" />
 
     
   </a>
