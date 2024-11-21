@@ -41,7 +41,7 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 <div align="center" class="icon-container">
   <!-- PowerShell -->
   <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" />
+    <img src="[https://img.icons8.com/ios/50/000000/python.png](https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000)" alt="Python" />  
   </a>
 
   <!-- JavaScript -->
