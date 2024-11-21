@@ -89,7 +89,9 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-    <img src= "https://img.icons8.com/ios/50/django.png" alt="django" alt="Django" />
+    <img src= "https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-green-tal-revivo.png" alt="django" alt="Django" />
+
+    
   </a>
 
   <!-- FastAPI -->
