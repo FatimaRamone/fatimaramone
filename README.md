@@ -131,48 +131,23 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://img.icons8.com/ios/50/000000/git.png" alt="Git" />
+    <img src= "https://img.icons8.com/clouds/100/github.png" alt="Git" />
   </a>
 
   <!-- Hugging Face -->
   <a href="https://huggingface.co/" target="_blank" title="Hugging Face">
-    <img src="https://img.icons8.com/ios/50/000000/hugging-face.png" alt="Hugging Face" />
+    <img src= "https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-hugging-expression-emoji-shared-on-instant-messenger-smiley-filled-tal-revivo.png" alt="Hugging Face" />
+
+ 
+    
   </a>
 
   <!-- REST -->
-  <a href="https://restfulapi.net/" target="_blank" title="REST">
-    <img src="https://img.icons8.com/ios/50/000000/api.png" alt="REST" />
-  </a>
 
-  <!-- SOAP -->
-  <a href="https://www.w3.org/TR/soap/" target="_blank" title="SOAP">
-    <img src="https://img.icons8.com/ios/50/000000/soap.png" alt="SOAP" />
-  </a>
 
-  <!-- API Development -->
-  <a href="https://swagger.io/" target="_blank" title="API Development">
-    <img src="https://img.icons8.com/ios/50/000000/api.png" alt="API Development" />
-  </a>
 
-  <!-- Web Services -->
-  <a href="https://www.w3.org/TR/wsdl/" target="_blank" title="Web Services">
-    <img src="https://img.icons8.com/ios/50/000000/web.png" alt="Web Services" />
-  </a>
 
-  <!-- JSON -->
-  <a href="https://www.json.org/json-en.html" target="_blank" title="JSON">
-    <img src="https://img.icons8.com/ios/50/000000/json.png" alt="JSON" />
-  </a>
-
-  <!-- MVVM Architecture -->
-  <a href="https://developer.android.com/guide/topics/architecture/app-architecture" target="_blank" title="MVVM Architecture">
-    <img src="https://img.icons8.com/ios/50/000000/architecture.png" alt="MVVM Architecture" />
-  </a>
-
-  <!-- ChromeDriver -->
-  <a href="https://sites.google.com/a/chromium.org/chromedriver/" target="_blank" title="ChromeDriver">
-    <img src="https://img.icons8.com/ios/50/000000/google-chrome.png" alt="ChromeDriver" />
-  </a>
+  
 </div>
 
 ---
@@ -180,5 +155,5 @@ I'm a passionate web developer specializing in AI solutions 🧠💻, always exc
 ## 📞 Let's Talk!
 If you want to collaborate, have any questions, or just want to chat, don't hesitate to reach out!
 
-- 📧 Email: fatima@example.com
-- 🌐 Website: [fatimaramone.com](http://www.fatimaramone.com)
+- 📧 Email: fatimapitaemail@gmail.com
+- 🌐 Website: [fatimaramone.com](http://www.fatimapita.com)
